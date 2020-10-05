@@ -1,0 +1,3 @@
+- [ ] Completing this task
+- [ ] Attending classes
+- [ ] Sleep
